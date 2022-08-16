@@ -15,8 +15,8 @@ with open(os.path.join(basedir, 'README.md'), encoding='utf-8') as f:
 
 setup(
     name='Flask-Brython',
-    version='1.0.7',
-    packages=['flask_aceeditor'],
+    version='1.0.0',
+    packages=['flask_brython'],
     url='https://github.com/lrsgzs/flask-brython',
     license='MIT',
     author='LRS',
